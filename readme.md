@@ -15,6 +15,7 @@
 - [Mobile](#mobile)
 - [Tutorials](#tutorials)
 - [Community](#community)
+- [Web Ressources](#web-ressources)
 
 
 ## Docs
@@ -71,6 +72,11 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 - [IRC](https://www.ffmpeg.org/contact.html#IRCChannels)
 
 
+## Web Ressources
+
+- [ffmprovisr](https://amiaopensource.github.io/ffmprovisr/) - FFmprovisr is a web-based tool that simplifies the process of generating FFmpeg commands.
+- [FFmpeg By Example](https://ffmpegbyexample.com/) - FFmpeg By Example is a documentation website to showcase all the unique and different ways to use FFmpeg.
+
 ## Contribute
 
 Contributions welcome! Please read the [contributing guideline](contributing.md) first.
@@ -81,5 +87,3 @@ Contributions welcome! Please read the [contributing guideline](contributing.md)
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, [Travis Fischer](https://github.com/transitive-bullshit) has waived all copyright and related or neighboring rights to this work.
-
-Support my OSS work by <a href="https://twitter.com/transitive_bs">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a>
